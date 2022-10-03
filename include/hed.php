@@ -18,7 +18,7 @@
 				<div class="row" style="padding-top:13px;">
 					<div class="col-md-1 p-0" style="font-style:oblique;">
 						<h4 class="m-0 text-light">Flipkart<h4>
-						<a href="#"><h6 class="text-light mb-0" style="marin-top:-8px;"><small>Expoler<span style="color:yellow;">plus<i class="far fa-star"></i></span></small></h6></a>
+						<a href="index.php"><h6 class="text-light mb-0" style="marin-top:-8px;"><small>Expoler<span style="color:yellow;">plus<i class="far fa-star"></i></span></small></h6></a>
 					</div>
 					
 					<div class="col-md-5">
